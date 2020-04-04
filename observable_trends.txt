@@ -1,0 +1,4 @@
+Observable Trends
+1. The Charter schools performed better than the District schools, when looking at passing rate.
+2. The students in each school perform consistenly, by average grade, each year of high school,in both reading and math.
+3. The Large schools performed worse across the board, compared to the Small and Medium schools. 
